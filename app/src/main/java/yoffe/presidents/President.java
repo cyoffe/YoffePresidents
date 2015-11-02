@@ -1,18 +1,43 @@
 package yoffe.presidents;
 
-/**
- * Created by student1 on 10/22/2015.
- */
+import com.google.gson.annotations.SerializedName;
+
 public class President {
     private int number;
     private String president;
-    private int birth_year;
-    private int death_year;
-    private String took_office;
-    private String left_office;
+    private int birthYear;
+    private Integer deathYear;
+    private String tookOffice;
+    private String leftOffice;
     private String party;
+
+    public Integer getDeathYear() {
+        return deathYear;
+    }
+
+    public int getNumber() {
+        return number;
+    }
+
+    public String getLeftOffice() {
+        return leftOffice;
+    }
+
+    public String getParty() {
+        return party;
+    }
+
+    public String getTookOffice() {
+        return tookOffice;
+    }
 
     public String getPresident() {
         return president;
     }
+
+    public int getBirthYear() {
+        return birthYear;
+    }
+
+
 }
