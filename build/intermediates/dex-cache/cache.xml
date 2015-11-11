@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="E:\AndroidStudio\YoffePresidents\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="E:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\classes-b8ec9304e2daaab9e934d9f6116f76f890fef67e.jar" />
-    </item>
-    <item
-        jar="C:\Users\student1\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
-        <dex dex="E:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\gson-2.4-e45ea90dfb2d7bbe9c8c3161ee3eccb19f58676b.jar" />
-    </item>
-    <item
-        jar="E:\AndroidStudio\YoffePresidents\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="E:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\classes-adc5e91f707a6cf98faf7bdbec278007dcaf4c37.jar" />
-    </item>
-    <item
-        jar="E:\AndroidStudio\YoffePresidents\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="E:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\classes-67a7b90ab3c5cb9f2b532dc6075bcfd34c571be4.jar" />
-    </item>
-    <item
-        jar="C:\Users\student1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jar="C:\Users\CS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="E:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-4583f73466510ceb7d02370c96ee2f6e3ceaa6e8.jar" />
+        <dex dex="G:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-1aae4d79f229a5dba367dc72cc4d4060e32af3de.jar" />
     </item>
     <item
-        jar="E:\AndroidStudio\YoffePresidents\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jar="C:\Users\CS\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="G:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\gson-2.4-715a50ca24503e0c8dbf6174cd23b67a1739d06d.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\YoffePresidents\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="E:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-98fb7688d353b28e41b6154e8320a7e0875a07d0.jar" />
+        <dex dex="G:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-94e1bbbb4f789b9fcfeb4557d1aff84ab497313a.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\YoffePresidents\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="G:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\classes-198f880efe0662e2b07426c196b785ae07b1bf0a.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\YoffePresidents\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="G:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\classes-b036b9d84138494804587a718ce5b966ef587fd6.jar" />
+    </item>
+    <item
+        jar="G:\AndroidStudio\YoffePresidents\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="G:\AndroidStudio\YoffePresidents\app\build\intermediates\pre-dexed\debug\classes-60a6f7f78667d521a4047f1eae728ed37188f3ef.jar" />
     </item>
 
 </items>

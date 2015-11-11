@@ -1,17 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/presImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true" />
 
     <TextView
         android:id="@+id/name"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textAllCaps="true"
+        android:textSize="18sp"
+        tools:text="NAME"
+        android:layout_below="@+id/presImage"
+        android:layout_alignParentLeft="true"/>
 
     <TextView
         android:id="@+id/number"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:textSize="18sp"
+        tools:text="NUMBER"
+        android:layout_below="@+id/presImage"/>
 
+    <TextView
+        android:id="@+id/yearsLived"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        tools:text="YEARS"
+        android:layout_below="@+id/name"
+        android:layout_alignParentLeft="true"/>
 
-</LinearLayout>
+    <TextView
+        android:id="@+id/officeYears"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/number"
+        android:textSize="18sp"
+        tools:text="YEARS"/>
+
+    <TextView
+        android:id="@+id/party"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/yearsLived"
+        android:textSize="18sp" />
+
+</RelativeLayout>

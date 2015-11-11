@@ -2,7 +2,9 @@ package yoffe.presidents;
 
 import com.google.gson.annotations.SerializedName;
 
-public class President {
+import java.io.Serializable;
+
+public class President implements Serializable{
     private int number;
     private String president;
     private int birthYear;
